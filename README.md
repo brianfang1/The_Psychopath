@@ -1,6 +1,6 @@
 The Psycopath
 
-Visit brianfang1.github.io/The_Psychopath to try this game!
+Visit brianfang1.github.io/The_Psychopath(brianfang1.github.io/The_Psychopath) to try this game!
 
 Instructions: You have been kidnapped and trapped inside a room by a psychopath. You must escape.
 To do this, read the instructions on the table. You must complete a series of 3 puzzles that will 
